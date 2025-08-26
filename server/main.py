@@ -29,7 +29,7 @@ def get_product(product_id: int):
 
 @app.post("/chat")
 def chat(message: str):
-    api_key = "sk-aa32ecf5b40b4579936c18c2da5fe704"
+    api_key = ""
     base_url = "https://api.deepseek.com"
 
     client = OpenAI(api_key=api_key, base_url=base_url)
