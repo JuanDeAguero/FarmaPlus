@@ -1,0 +1,6 @@
+product_id,product_name,category,price,stock_quantity,description
+1,Paracetamol,Medicine,2.50,100,Pain reliever and fever reducer
+2,Ibuprofen,Medicine,3.00,50,Anti-inflammatory and pain reliever
+3,Bandages,First Aid,1.00,200,Adhesive bandages for minor cuts
+4,Vitamin C,Supplements,5.00,75,Boosts immune system
+5,Hand Sanitizer,Hygiene,3.50,150,Alcohol-based hand sanitizer
